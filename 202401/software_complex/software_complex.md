@@ -1,6 +1,6 @@
 # 软件工程中的熵增定律
 
-![img](D:\blog\202401\software_complex\img\software_complex\ea07958b252844ce83823d77c1ba92a3_1028572087.png)
+![img](.\img\software_complex\ea07958b252844ce83823d77c1ba92a3_1028572087.png)
 
 ### 热力学三大定律
 
@@ -177,7 +177,7 @@ $$E = I´C / S$$
 * 软件开发人员对软件持有一种灵活的观点。他们关心系统当前的功能，仅限于必须进行更改，并关注系统的工作细节以制定适当的策略。
 * 管理人员可能对软件持有最复杂的观点，既包括静态的又包括流动的。他们必须在短期的紧急需求和业务计划对未来的更远期需求之间取得平衡。
 
-![Image of a complex system many elements and connections](D:\blog\202401\software_complex\img\software_complex\imagesurl=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F124224%2Ftoptal-blog-image-1505731982352-c3a03a4b70c4ebe9fe52522cf32cf394.jpg)
+![Image of a complex system many elements and connections](.\img\software_complex\imagesurl=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F124224%2Ftoptal-blog-image-1505731982352-c3a03a4b70c4ebe9fe52522cf32cf394.jpg)
 
 在这两种角色中的人都有期望。**每当这些期望受挫时，软件熵就会显现出来**。也就是说，软件开发人员和管理人员尽最大努力评估风险并为其制定计划，但是——除非有外部干扰——如果他们的期望仍然受挫，那么我们才能谈论软件熵。它是一只看不见的手，打破了不在范围内的组件交互，导致生产服务器莫名其妙地崩溃，并阻止及时且经济有效的热修复。
 
@@ -205,7 +205,7 @@ $$E = I´C / S$$
 
 代码是一系列逻辑断言的表达。当软件的行为（因此是其代码）与其意图表达的逻辑不符时，我们可以谈论其固有的代码熵。这种情况可能以三种方式出现：
 
-![Diagram of lack of knowledge, divergent logic, and unknown logic](D:\blog\202401\software_complex\img\software_complex\imagesurl=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F124225%2Ftoptal-blog-image-1505731996257-5531cc5a78974a0b282fd25182bdff4b.jpg)
+![Diagram of lack of knowledge, divergent logic, and unknown logic](.\img\software_complex\imagesurl=https%3A%2F%2Fuploads.toptal.io%2Fblog%2Fimage%2F124225%2Ftoptal-blog-image-1505731996257-5531cc5a78974a0b282fd25182bdff4b.jpg)
 
 * 逻辑是众所周知的，但与其表达有分歧；
 
